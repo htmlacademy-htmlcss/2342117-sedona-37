@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Aleksandr Klyuchnik](https://up.htmlacademy.ru/htmlcss/37/user/2342117).
-* Наставник: `Ирина Антипина`.
+* Наставник: `Ирина Антипина`(https://htmlacademy.ru/profile/id2108789).
 
 ---
 
